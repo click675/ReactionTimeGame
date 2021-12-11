@@ -6,7 +6,7 @@
 
 - made for SE KMITL Y1 PYTHON PROJECT by Plart Duangdee 64011566
 
-**Features**
+**Features:**
 
 - Diffuculty Selection
 - Calculate Average Reaction Time
