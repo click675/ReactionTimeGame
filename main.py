@@ -176,7 +176,7 @@ def options():
     hard.pack(pady=5)
     try_again.pack(pady=5)
 
-
+#main gui
 window = Tk()
 window.geometry("1280x720")
 window.title("Reaction Time Test")
