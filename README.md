@@ -8,6 +8,6 @@
 
 **Features:**
 
-- Diffuculty Selection
+- Difficulty Selection
 - Calculate Average Reaction Time
 - Score System
